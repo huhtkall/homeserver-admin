@@ -1,0 +1,24 @@
+# Local configuration
+config/config.conf
+
+# Runtime directories
+logs/
+backups/
+reports/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# Archives
+*.tar
+*.tar.gz
+*.tar.bz2
+*.zip
+
+#macOS
+.DS_Store
